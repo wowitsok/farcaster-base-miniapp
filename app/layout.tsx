@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: 'Farcaster Waitlist',
   description: 'Join our exclusive waitlist on Farcaster',
   other: {
+    'base:app_id': '69e1c8e2dce51e89419727e7',
     'fc:miniapp': JSON.stringify({
       version: 'next',
       imageUrl: 'https://vercel-deployment-url.vercel.app/og-image.png',
