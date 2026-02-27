@@ -7,23 +7,23 @@
   "miniapp": {
     "version": "1",
     "name": "Farcaster Waitlist",
-    "homeUrl": "https://vercel-deployment-url.vercel.app",
-    "iconUrl": "https://vercel-deployment-url.vercel.app/icon.svg",
-    "splashImageUrl": "https://vercel-deployment-url.vercel.app/splash.svg",
+    "homeUrl": "https://farcaster-base-miniapp-or22au1bb.vercel.app",
+    "iconUrl": "https://farcaster-base-miniapp-or22au1bb.vercel.app/icon.svg",
+    "splashImageUrl": "https://farcaster-base-miniapp-or22au1bb.vercel.app/splash.svg",
     "splashBackgroundColor": "#000000",
     "subtitle": "Join our exclusive waitlist",
     "description": "Be the first to know about new features and updates. Join our Farcaster community!",
     "screenshotUrls": [
-      "https://vercel-deployment-url.vercel.app/screenshot1.svg",
-      "https://vercel-deployment-url.vercel.app/screenshot2.svg"
+      "https://farcaster-base-miniapp-or22au1bb.vercel.app/screenshot1.svg",
+      "https://farcaster-base-miniapp-or22au1bb.vercel.app/screenshot2.svg"
     ],
     "primaryCategory": "social",
     "tags": ["farcaster", "base", "waitlist", "social"],
-    "heroImageUrl": "https://vercel-deployment-url.vercel.app/hero.svg",
+    "heroImageUrl": "https://farcaster-base-miniapp-or22au1bb.vercel.app/hero.svg",
     "tagline": "Join Now",
     "ogTitle": "Farcaster Waitlist Mini App",
     "ogDescription": "Be part of the next generation of social apps on Farcaster.",
-    "ogImageUrl": "https://vercel-deployment-url.vercel.app/og-image.svg",
+    "ogImageUrl": "https://farcaster-base-miniapp-or22au1bb.vercel.app/og-image.svg",
     "noindex": true
   }
 }
